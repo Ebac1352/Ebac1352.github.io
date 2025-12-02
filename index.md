@@ -1,8 +1,7 @@
 
 # Erick Bacilio Portfolio
 
-I am a first year college student who is currently majoring in computer 
-science. At the moment I plan to graduate in the year 2029
+I am a first year college student who is currently majoring in computer science. At the moment I plan to graduate in the year 2029 and receive my undergrad in which hopefully I can get my masters
 
 ## Favorite CPSC 120L Labs
 
