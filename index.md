@@ -3,6 +3,8 @@
 
 I am a first year college student who is currently majoring in computer science. At the moment I plan to graduate in the year 2029 and receive my undergrad in which hopefully I can get my masters
 
+My github page is https://github.com/Ebac1352
+
 ## Favorite CPSC 120L Labs
 
 * Lab 06 Part 2
